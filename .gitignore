@@ -1,0 +1,6 @@
+/knulli-screenshot
+/knulli-record
+*.o
+*.png
+*.mkv
+*.mp4
